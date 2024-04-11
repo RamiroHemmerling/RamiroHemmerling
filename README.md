@@ -7,8 +7,8 @@ Hey there, my name is Ramiro welcome to my GitHub page 👋
 
 - Learning 🧠
   Frontend: 
-  JavaScript (with Frameworks) / Tailwind CSS 
-  Backend:
+  JavaScript (with Frameworks) / Tailwind CSS  |  
+    Backend: idk
   
 - Contact ✉️
   e-Mail: ramiro.hemmerling@ict-scouts.ch

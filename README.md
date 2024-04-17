@@ -3,7 +3,7 @@ Hey there, my name is Ramiro welcome to my GitHub page 👋
 
 - About Me 👨🏻‍💻
   I'm currently studying at the IMS in Basel, where i acquire skills in term of Computer Science.
-  I to imagine something and build it then 🛠️💻
+  I like to imagine something and build it then 🛠️💻
 
 - Learning 🧠
   Frontend: 

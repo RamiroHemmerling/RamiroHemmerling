@@ -6,7 +6,7 @@ Hey there, my name is Ramiro welcome to my GitHub page 👋
   I like to imagine something and build it then 🛠️💻
 
 - Learning 🧠 
-  JavaScript (with Frameworks) |  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=js,c,git" />
   
 - Contact ✉️
   e-Mail: ramiro.hemmerling@ict-scouts.ch

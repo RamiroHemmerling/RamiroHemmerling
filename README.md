@@ -7,7 +7,7 @@ Hey there, my name is Ramiro welcome to my GitHub page 👋
 
 - Learning 🧠
   
-  <img src="https://skillicons.dev/icons?i=js"/> & <img src="https://skillicons.dev/icons?i=js,react,c,git" />
+  <img src="https://skillicons.dev/icons?i=js"/> & <img src="https://skillicons.dev/icons?i=react,c,git" />
   
 - Contact ✉️
   e-Mail: ramiro.hemmerling@ict-scouts.ch

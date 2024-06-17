@@ -7,7 +7,7 @@
 
 - ### Learning 🧠
   
-  <img src="https://skillicons.dev/icons?i=js"/> & <a href="https://www.twitch.tv/noway4u_sir"> <img src="https://skillicons.dev/icons?i=react"> <a/> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=js"/> & <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=git" />
   
 - ### Contact ✉️
   

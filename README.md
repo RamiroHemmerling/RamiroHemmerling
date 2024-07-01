@@ -1,8 +1,6 @@
 # Welcome, i'm Ramiro
 ## Hey there, my name is Ramiro welcome to my GitHub Page 👋
 
-<hr style="border:2px solid gray">
-
 - ### About Me 👨🏻‍💻
 
   I'm currently studying at the IMS in Basel, where i acquire skills in term of Computer Science.

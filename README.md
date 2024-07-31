@@ -1,5 +1,5 @@
-# Welcome, i'm Ramiro
-## Hey there, my name is Ramiro welcome to my GitHub Page 👋
+# Welcome, i'm Ramiro 👋
+## This is my personal GitHub Page 
 
 - ### About Me 👨🏻‍💻
 

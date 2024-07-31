@@ -3,8 +3,7 @@
 
 - ### About Me 👨🏻‍💻
 
-  I'm currently studying at the IMS in Basel, where i acquire skills in term of Computer Science.
-  I like to imagine something and build it then 🛠️💻
+  I'm currently studying at the IMS in Basel, where I'm acquiring knowledge in the field of computer science. I like to imagine something and then build it 🛠️💻
 
   <hr style="border:2px solid gray">
 

@@ -1,5 +1,4 @@
 # Welcome, i'm Ramiro 👋
-## This is my personal GitHub Page 
 
 - ### About Me 👨🏻‍💻
 

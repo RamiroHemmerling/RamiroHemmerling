@@ -10,7 +10,7 @@
   
   <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=cs" />
 
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=RamiroHemmerling&theme=default&show_icons=true&hide_border=true&count_private=true" alt="RamiroHemmerling's GitHub Stats" />
   <hr style="border:2px solid gray">
   
 - ### Contact ✉️

@@ -13,7 +13,7 @@
 
 - ### Learning 🧠
   
-  <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=supabase" /> 
 
  
   <hr style="border:2px solid gray">

@@ -17,7 +17,7 @@
 
  
   <hr style="border:2px solid gray">
-  
+  ![](https://komarev.com/ghpvc/?username=RamiroHemmerling&color=green)
 
 
 [![](https://visitcount.itsvg.in/api?id=RAMIROexe&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)

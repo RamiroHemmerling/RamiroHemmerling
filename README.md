@@ -11,6 +11,5 @@
 
   <hr style="border:2px solid gray">
 
-  <hr style="border:2px solid gray">
-  ![](https://komarev.com/ghpvc/?username=RamiroHemmerling&color=green)
+
 

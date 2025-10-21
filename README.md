@@ -11,11 +11,6 @@
 
   <hr style="border:2px solid gray">
 
-- ### Learning 🧠
-  
-  <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=supabase" /> 
-
- 
   <hr style="border:2px solid gray">
   ![](https://komarev.com/ghpvc/?username=RamiroHemmerling&color=green)
 

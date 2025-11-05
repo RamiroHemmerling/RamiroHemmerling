@@ -6,7 +6,7 @@
 
   <hr style="border:2px solid gray">
   <img src="https://github-readme-stats.vercel.app/api?username=RamiroHemmerling&theme=react&show_icons=true&hide_border=true&count_private=true" alt="RamiroHemmerling's GitHub Stats" width=350" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamiroHemmerling&theme=tokyonightl&hide_border=true" />
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamiroHemmerling&theme=tokyonightl&hide_border=true)
 
   <hr style="border:2px solid gray">
 

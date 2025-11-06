@@ -1,4 +1,4 @@
-![welcome_intro_readme.gif](https://github.com/RamiroHemmerling/RamiroHemmerling/blob/main/welcome_intro_readme.gif)
+# Welcome, I'm Ramiro
 <hr style="border:2px solid gray">
 
 ## About Me 👨🏻‍💻 <br>

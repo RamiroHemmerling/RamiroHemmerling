@@ -1,7 +1,7 @@
 ## Welcome, i'm Ramiro 👋
 
 <code>About Me 👨🏻‍💻</code> <br>
-<hr>
+<br>
 I'm currently a:<br>
 🔹Intern @ Primetrack AG<br>
 🔹Student @ IMS-Basel<br>

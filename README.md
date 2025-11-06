@@ -1,6 +1,6 @@
 ![welcome_intro_readme.gif](https://github.com/RamiroHemmerling/RamiroHemmerling/blob/main/welcome_intro_readme.gif)
 <hr style="border:2px solid gray">
-## About Me 👨🏻‍💻 <br>
+# About Me 👨🏻‍💻 <br>
 
 I'm currently a:<br>
 🔹Intern @ Primetrack AG<br>

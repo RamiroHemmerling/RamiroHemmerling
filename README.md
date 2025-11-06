@@ -1,6 +1,6 @@
-# Welcome, i'm Ramiro 👋
+## Welcome, i'm Ramiro 👋
 
-<code style="fontsize: 60px;">About Me 👨🏻‍💻</code>
+<code>About Me 👨🏻‍💻</code>
 
 
 

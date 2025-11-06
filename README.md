@@ -1,10 +1,11 @@
 ## Welcome, i'm Ramiro 👋
 
-<code>About Me 👨🏻‍💻</code> <br>
+##About Me 👨🏻‍💻## <br>
 
 I'm currently a:<br>
 🔹Intern @ Primetrack AG<br>
 🔹Student @ IMS-Basel<br>
+In order to become a <code>Software Developer</code>
 
 <hr style="border:2px solid gray">
   

@@ -1,4 +1,5 @@
-# ![welcome_intro_readme.gif](https://github.com/RamiroHemmerling/RamiroHemmerling/blob/main/welcome_intro_readme.gif)
+![welcome_intro_readme.gif](https://github.com/RamiroHemmerling/RamiroHemmerling/blob/main/welcome_intro_readme.gif)
+<hr style="border:2px solid gray">
 ## About Me 👨🏻‍💻 <br>
 
 I'm currently a:<br>

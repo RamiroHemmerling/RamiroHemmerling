@@ -1,4 +1,3 @@
-# Welcome, i'm Ramiro 👋
 ![welcome_intro_readme.gif](https://github.com/RamiroHemmerling/RamiroHemmerling/blob/main/welcome_intro_readme.gif)
 ## About Me 👨🏻‍💻 <br>
 

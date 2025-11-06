@@ -1,6 +1,6 @@
-## Welcome, i'm Ramiro 👋
+# Welcome, i'm Ramiro 👋
 
-##About Me 👨🏻‍💻## <br>
+## About Me 👨🏻‍💻 <br>
 
 I'm currently a:<br>
 🔹Intern @ Primetrack AG<br>

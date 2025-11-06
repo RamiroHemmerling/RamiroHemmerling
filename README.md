@@ -1,6 +1,6 @@
-# Welcome, I'm Ramiro
+<h1 align="center">Welcome, I'm Ramiro</h1>
 
-## About Me 👨🏻‍💻 <br>
+<h2>About Me 👨🏻‍💻</h2> <br>
 I'm currently a:<br>
 🔹Intern @ Primetrack AG<br>
 🔹Student @ IMS-Basel<br>

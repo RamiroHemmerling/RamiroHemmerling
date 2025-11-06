@@ -1,6 +1,9 @@
 # Welcome, i'm Ramiro 👋
 
-<code style="fontsize: 40px; font-weight: 600;">About Me 👨🏻‍💻</code>
+<span style="font-family: monospace; font-size: 40px; font-weight: 600; background-color: #f6f8fa; padding: 4px 8px; border-radius: 6px;">
+About Me 👨🏻‍💻
+</span>
+
 
   I'm currently studying at the IMS in Basel, where I'm acquiring knowledge in the field of Informatics. I like to imagine something and then build it 🛠️💻
 

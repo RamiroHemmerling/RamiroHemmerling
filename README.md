@@ -14,7 +14,7 @@ In order to become a <code>Software Developer</code>
 </div>
 
 <hr style="border:1px solid gray">
-<h2>Reach Out!</h2>
+<h2>Reach Out 📫</h2>
 🔹ramirohem.coding@gmail.com
 
 

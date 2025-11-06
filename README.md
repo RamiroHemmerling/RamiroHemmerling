@@ -1,6 +1,6 @@
 # Welcome, i'm Ramiro 👋
 
-<code style="fontsize: 20px;">About Me 👨🏻‍💻</code>
+<code style="fontsize: 40px; font-weight: 600;">About Me 👨🏻‍💻</code>
 
   I'm currently studying at the IMS in Basel, where I'm acquiring knowledge in the field of Informatics. I like to imagine something and then build it 🛠️💻
 

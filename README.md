@@ -1,5 +1,4 @@
 # Welcome, I'm Ramiro
-<hr style="border:2px solid gray">
 
 ## About Me 👨🏻‍💻 <br>
 I'm currently a:<br>

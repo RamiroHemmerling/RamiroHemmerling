@@ -1,11 +1,7 @@
 <h1 align="center">Welcome, I'm Ramiro</h1>
 
 <h2>About Me 👨🏻‍💻</h2> 
-I'm currently a:<br>
-🔹Intern @ Primetrack AG<br>
-🔹Student @ IMS-Basel<br>
-
-In order to become a <code>Software Developer</code>
+<code>Junior AI Engineer</code> @ Primetrack AG
 <hr style="border:1px solid grey)">
 
 <div style="display: flex; gap: 10px;">
